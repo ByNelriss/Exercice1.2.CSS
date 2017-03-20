@@ -1,0 +1,19 @@
+h1 {
+text-align: center;
+font-size: 40px;
+font-Weight: Bold;
+}
+
+h2 {
+text-align: right;
+font-size: 30px;
+}
+
+h3 {
+font-size: 30px;
+font-style: italic;
+}
+
+ul.sans {
+list-style-type: none;
+}
